@@ -1,0 +1,1 @@
+{"0": null, "Browse": "/Users/ahsantarique/Device/Seam-Carving/images/tree.png", "1": "Column", "2": "Sobel", "3": 98.0, "4": 20.0}

@@ -1,0 +1,13 @@
+name: seamcarving
+dependencies:
+- python
+- pip
+- tqdm
+- Pillow
+- matplotlib
+- imageio
+- scipy
+- numba
+- scikit-image
+- pip:
+  - PySimpleGUI
